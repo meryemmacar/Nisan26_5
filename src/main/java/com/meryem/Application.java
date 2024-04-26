@@ -5,5 +5,6 @@ public class Application {
         System.out.println("Hellooo");
         String ad;
         int sayi;
+        System.out.println("meryem");
     }
 }
